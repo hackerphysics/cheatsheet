@@ -16,13 +16,14 @@ theme:
 
 
 nav:
-- 'Windows': 'windows.md'
-- 'Linux': 'linux.md'
-- 'Python': 'python.md'
-- 'C++': 'c++.md'
-- 'C#': 'csharp.md'
-- 'VSCode': 'vscode.md'
-- 'Vim': 'vim.md'
+    - "Index": 'index.md'
+    - 'Windows': 'windows.md'
+    - 'Linux': 'linux.md'
+    - 'Python': 'python.md'
+    - 'C++': 'c++.md'
+    - 'C#': 'csharp.md'
+    - 'VSCode': 'vscode.md'
+    - 'Vim': 'vim.md'
 
 plugins:
     # - with-pdf
